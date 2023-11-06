@@ -117,7 +117,7 @@ The following steps are used to create a Machine Learning Project using predefin
 
 # Results
 
-**1.** Logistic Regression ➡️ 77.77
+**1.** Logistic Regression ➡️ 76.47
 
 **2.** SVM Technique ➡️ 77.77
 
